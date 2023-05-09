@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "#" width="300">
+  <img src = "/images/scissors.png" width="100">
 </p>
 
 <h1 align="center">
